@@ -1,6 +1,6 @@
 # Código de tres direcciones
 
-Organización de Lenguajes y Compiladores 2\
+Organización de Lenguajes y Compiladores 2
 
 
 ## Calculadora-C3D

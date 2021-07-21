@@ -1,8 +1,6 @@
 # Código de tres direcciones
 
 Organización de Lenguajes y Compiladores 2\
-Sección B+\
-Exámen Corto 2 - 201700686
 
 
 ## Calculadora-C3D
